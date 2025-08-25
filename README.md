@@ -236,8 +236,7 @@ Linux clear command is used to clear the terminal screen.
 Syntax: clear
 
 <img width="696" height="481" alt="image" src="https://github.com/user-attachments/assets/2a63de76-5485-4242-b8a4-be523ce65372" />
-
-
+<br>
 <img width="257" height="93" alt="image" src="https://github.com/user-attachments/assets/1cd0d12e-e2cc-424f-9061-dc9d4be795f3" />
 
 ### 28)	mail Command
