@@ -194,6 +194,7 @@ The chmod 777 command gives read, write and execute permission to the owner, gro
 
 Syntax: chmod 777 file_name
 $chmod -R 777 /path/to/file/or/folder
+
 <img width="425" height="132" alt="Screenshot 2025-08-25 085520" src="https://github.com/user-attachments/assets/4c2ab2ff-62b1-4f44-bb0b-f4b37e0c754e" />
 
 ### 23)	host Command
