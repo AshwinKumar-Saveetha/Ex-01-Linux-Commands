@@ -64,7 +64,7 @@ The cat command is a multi-purpose utility in the Linux system. It can be used t
 Syntax: cat [OPTION]... [FILE]..
 
 <img width="243" height="90" alt="image" src="https://github.com/user-attachments/assets/8281a04c-4004-49b8-bd23-d83bb15c08c7" />
-
+<br>
 <img width="252" height="97" alt="image" src="https://github.com/user-attachments/assets/f6290e0a-a029-4da5-b9fb-c66fe87a6f79" />
 
 ### 7)	cp Command
